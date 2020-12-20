@@ -20,7 +20,7 @@ title                    : "Arash's Python Pit"
 title_separator          : "-"
 subtitle                 : "Approach with care!"# site tagline that appears below site title in masthead
 name                     : "Arash (Mehdi Feizpour)"
-description              : "I just wanted a place to share my code and get some feeback! So, please feel free to comment and share!"
+description              : "Here is my place to share my code and get some feeback! So, please feel free to comment and share!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
