@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Arash (Mehdi Feizpour)"
-  avatar           : "assets/images/FormatFactoryNIK_0095.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/NIK_0047.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate - Biomedical Photonics - B-PHOT: I have recently graduated from Vrije Universiteit Brussel's (VUB) Applied Physics and Photonics department of Engineering faculty (EMSP programme). I specialized in biomedical physics and optics at VUB and currently reside in Brussels, Belgium. I have an insatiable desire in Bio- and Medical-Photonics, namely emerging imaging, diagnostics, and treatment techniques. Being fond of computational, experimental, and theoretical fields, I actively look for challenges in different interdisciplinary fields."
   location         : "Brussels, Belgium"
   email            : "mehdi.feizpour@vub.be"
