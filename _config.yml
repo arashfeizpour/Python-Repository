@@ -27,7 +27,7 @@ repository               : arashfeizpour/Python-Repository # GitHub username/rep
 teaser                   : "assets/images/NIK_0057b.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://raw.githubusercontent.com/arashfeizpour/arashfeizpour.github.io/master/images/LOGOWing2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -38,8 +38,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 3 # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -63,7 +63,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Arash (Mehdi Feizpour)"
+  avatar           : "https://raw.githubusercontent.com/arashfeizpour/arashfeizpour.github.io/master/images/LOGOWing2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD Candidate - Biomedical Photonics - B-PHOT: I have recently graduated from Vrije Universiteit Brussel's (VUB) Applied Physics and Photonics department of Engineering faculty (EMSP programme). I specialized in biomedical physics and optics at VUB and currently reside in Brussels, Belgium. I have an insatiable desire in Bio- and Medical-Photonics, namely emerging imaging, diagnostics, and treatment techniques. Being fond of computational, experimental, and theoretical fields, I actively look for challenges in different interdisciplinary fields."
+  location         : "Brussels, Belgium"
+  email            : "mehdi.feizpour@vub.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mehdi.feizpour@vub.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
